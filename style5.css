@@ -1,0 +1,19 @@
+p {
+  font-size: 20px;
+}
+
+p + span {
+  background-color: yellow;
+}
+
+p ~ p {
+  background-color: blue;
+}
+
+div p {
+  color: #ccc;
+}
+
+div > p {
+  color: #FFCC00;
+}
