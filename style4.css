@@ -1,0 +1,48 @@
+.iconDaLista {
+  color: blue;
+}
+.icon {
+  font-size: 40px;
+}
+
+.iconTelaPrincipal {
+  color: red;
+}
+
+#superIDZao {
+  font-size: 100px!important;
+}
+
+.superClasse {
+  font-size: 90px!important;
+}
+
+div p.classeForte#superID {
+  /*força 112*/
+  font-size: 70px;
+}
+
+#superID {
+  /*for;ca 100*/
+  font-size: 60px;
+}
+
+div p.classeForte {
+  /*força 12*/
+  font-size: 50px;
+}
+
+.classeForte {
+  /*força 10*/
+  font-size: 40px;
+}
+
+div p {
+  /*força 2*/
+  font-size: 30px;
+}
+
+p {
+  /*força 1*/
+  font-size: 20px;
+}
