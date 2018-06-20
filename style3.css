@@ -1,0 +1,16 @@
+.doP {
+  color: #d91b1b;
+  font-size: 20px;
+}
+
+.botao {
+  width: 70px;
+  height: 40px;
+  border-radius: 10px;
+}
+.fundoAzul {
+  background-color: blue;
+}
+.fundoVerde {
+  background-color: green;
+}
